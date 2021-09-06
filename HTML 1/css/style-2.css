@@ -1,0 +1,2505 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=BenchNine&display=swap');
+
+
+
+
+body
+{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.container{
+    max-width: 1920px;
+    width: 100%;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+.wrapper
+{
+    max-width: 1170px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+.header-contnet
+{
+    background-color: grey;
+}
+.leftLogo {
+  
+ 
+    background-color: grey;
+    float: left;
+    padding-left: 30px;
+    
+  
+  }
+  .leftLogo img
+   {
+
+width: 15%;
+}
+  .leftLogo h2
+  {
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    display: inline-block;
+    /* margin: 0px; */
+    margin-left: 7px
+ }
+ .rightNavigation
+{
+  background-color: grey;
+}
+.rightNavigation button
+{
+  opacity: 0;
+}
+
+.rightNavigation ul
+ {
+    margin-top: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 0px;
+    text-align: right;
+    padding-right: 40px;
+
+
+
+
+ 
+}
+.rightNavigation ul li
+{
+  display: inline;
+  letter-spacing:0px;
+  padding-left: 13px;
+  
+  
+  
+}
+.rightNavigation ul li a
+{
+  color: white;
+padding: 5px;
+  font-size: 12px;
+  text-decoration: none;
+  border: 1px solid transparent;
+
+  
+  
+}
+.rightNavigation ul li a:hover
+{
+  border: 1px solid white;
+
+  
+}
+
+
+/* here the css of page -1 starts  */
+
+.page-1
+{
+    background-color: gray;
+}
+/* .hero-logo
+{
+  width: 768px;
+} */
+.hero-logo img {
+  max-width: 100%;
+  min-width: 55%;
+  padding-top: 250px;
+  padding-bottom: 252px;
+  margin: 0 auto;
+  text-align: center!important;
+  padding-left: 10%;
+  margin-left: 50px;
+}
+
+
+/* CSS of page-2 begains */
+
+.topTitle h2 {
+    padding-top: 100px;
+    text-align: center;
+    font-family: "BenchNine", sans-serif;
+    letter-spacing: normal;
+    text-align-last: center;
+    font-size: 30px;
+    /* text-decoration: underline red ; */
+  }
+  #underline-our-services {
+    width: 90px;
+    align-items: center;
+    margin-top: 02px;
+    border: 1px solid red;
+  }
+.topTitle p
+{
+    text-align: center;
+    font-weight: 100;
+    font-size: 12px;
+    padding-left: 100px;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(172, 164, 160);
+    letter-spacing: 0.05px;
+    width: 1000px;
+}
+
+
+
+/* .middleNavigation {
+    background-color: aqua;
+    margin-left: 300px;
+    margin-top: -5px;
+  } */
+
+
+
+  /* inline CSS of Page-2 */
+.middle-content-page-2
+{
+    /* display: inline-block; */
+}
+.booksandcups
+{
+    float: left;
+    padding-left: 108px;
+    width: 40%;
+}
+.page-2-content
+{
+    float: left;
+    width: 350px;
+    padding-left: 80px;
+     
+}
+.page-2::after
+{
+    clear: both;
+    content: "";
+    display: table;
+}
+
+
+
+
+  
+  .navigationBlock {
+    display: inline block;
+    float: left;
+    padding-top: 45px;
+  
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  .navigationBlock i{
+    margin-top: -5px;
+    /* padding-top: px; */
+    margin-left: 85px;
+    padding-left: 0px;
+    color: grey;
+
+  }
+  .navigationBlock button {
+    background-color: rgb(191, 183, 181);
+    border: 1px solid;
+    width: 181px;
+    height: 46px;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    margin-top: 10px;
+    
+  }
+  
+  .navigationBlock:hover button
+  {
+  background-color:  red;
+  cursor: pointer;
+  
+  
+  }
+  .middleNavigation
+  {
+      padding-left: 150px;
+
+  }
+  
+  .navigationBlock div ::before
+  {
+    color:rgb(191, 183, 181);
+  }
+  
+  .navigationBlock:hover ::before
+  {
+    color: red;
+    
+    
+  }
+  .icon-page-2-1 i
+  {
+    
+    
+    font-size: 40px
+  }.icon-page-2-2 i
+  {
+    
+    
+    font-size: 40px
+  }.icon-page-2-3 i
+  {
+    
+    
+    font-size: 40px
+  }.icon-page-2-4 i
+  {
+    
+    
+    font-size: 40px
+  }.icon-page-2-5 i
+  {
+    
+    
+    font-size: 40px
+  }
+
+  .booksandcups img
+  {
+     width: 100%;
+     padding-top: 80px;
+  }
+
+  .page-2-content h3
+  {
+    font-size: 25px;
+    padding-top: 80px;
+    
+    color: #211e1e;
+    font-weight: 700;
+    font-family: "Raleway";
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .page-2-content h4
+  {
+    font-size: 12px;
+    color: #726a69;
+    margin-top: 10px;
+    font-weight: 700;
+    font-family: "Source Sans Pro";
+  }
+
+  .page-2-content ul li
+  {
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 23px;
+    color: #726a69;
+    font-weight: 400;
+    font-family: "Source Sans Pro";
+    list-style: none;
+    
+  }
+  .page-2-content ul
+  {
+    padding-left: 0px!important;
+  }
+.price-tag img
+{
+padding-top: 80px;
+width: 10%;
+}
+.quote img
+{
+    padding-left: 0;
+    width: 40%;
+    padding-left: 80px;
+}
+.relatedprojects img
+{
+    padding-left: 0;
+    width: 40%;
+    padding-left: 80px;
+}
+.relatedprojects h3
+{
+    font-size: 15px;
+    display: inline-block;
+    padding-left: 80px;
+
+    color: #211e1e;
+    font-weight: 700;
+    font-family: "Raleway";
+
+}
+.buttonsBelowrelatedprojects {
+    display: flex;
+    flex-direction: row;
+    /* align-items: center;
+    text-align: center; */
+    margin-top: 25px;
+    float: left;
+    padding-left: 15px;
+    margin-left: 70px;
+    font-family: "Raleway", sans-serif;
+    padding-bottom: 100px;
+  }
+  .ordernow {
+    width: 150px;
+    height: 45px;
+    font-family: "Raleway", sans-serif;
+    font-weight: bolder;
+    font-size: 13px;
+    color: red;
+    background-color: white;
+    border-radius: 5px;
+  
+  }
+  .ordernow:hover
+  {
+      background-color: red;
+      color: white;
+      cursor: pointer;
+  }
+  
+  .contactus {
+    width: 145px;
+    height: 45px;
+    font-family: "Raleway", sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    color: red;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255)
+
+  }
+  .contactus:hover
+  {
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  }
+
+  /* here the CSS of page-3 begains */
+
+.page-3
+{
+    background-color: #efefef;
+}
+
+
+  .heading-page-3 h3
+{
+   
+
+font-size: 25px;
+letter-spacing: 2px;
+line-height: 20px;
+color: #000000;
+text-align: center;
+font-weight: 700;
+font-family: "Raleway";
+
+}
+.heading-page-3 p
+{
+    
+
+font-size: 16px;
+letter-spacing: 0px;
+line-height: 23px;
+color: #928c8b;
+font-weight: 400;
+font-family: "Raleway";
+text-align: center;
+}
+#line-below-portfolio
+{
+    width: 60px;
+    color: red;
+    border: 1px solid red;
+}
+.heading-page-3
+{
+    padding-top: 80px;
+    padding-left: 52px;
+}
+.page3butons  {
+    font-family: source Sans;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 60px;
+    font-size: 0px;
+
+  }
+  
+  
+  
+  .all {
+    width: 80px;
+    margin-left: 17px;
+    background-color: transparent;
+    height: 40px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    
+    color: rgb(155, 153, 153);
+    border: 1px solid ;
+    
+   
+  }
+  .all:hover
+  {
+      border: 1px solid red;
+      color: red;
+      cursor: pointer;
+  }
+  .interactive {
+    width: 135px;
+    margin-left: 25px;
+    background-color: rgb(155, 153, 153);
+    height: 40px;
+    margin: 15px;
+    
+    background-color: transparent;
+    color: rgb(155, 153, 153);
+    border: 1px solid ;
+  
+   
+  }
+  .interactive:hover
+  {
+      border: 1px solid red;
+      color: red;
+      cursor: pointer;
+  }
+  .development {
+    width: 120px;
+    
+    height: 40px;
+    margin: 15px;
+    
+    
+    background-color: transparent;
+    color: rgb(155, 153, 153);
+    border: 1px solid ;
+  }
+  .development:hover
+  {
+      border: 1px solid red;
+      color: red;
+      cursor: pointer;
+  }
+  .userintrface {
+    width: 135px;
+    height: 40px;
+    background-color: transparent;
+    color: rgb(155, 153, 153);
+    border: 1px solid ;
+    margin: 15px;
+  
+  }
+  .userintrface:hover
+  {
+      border: 1px solid red;
+      color: red;
+      cursor: pointer;
+  }
+  .printdesign {
+    width: 110px;
+    height: 40px;
+    margin: 15px;
+    color: red;
+    background-color: transparent;
+    color: rgb(155, 153, 153);
+    border: 1px solid ;
+    
+  }
+  .printdesign:hover
+  {
+      border: 1px solid red;
+      color: red;
+      cursor: pointer;
+  }
+  .webdesign {
+    width: 110px;
+    height: 40px;
+    background-color: transparent;
+    color: rgb(155, 153, 153);
+    border: 1px solid ;
+    margin: 15px;
+   
+  }
+  .webdesign:hover
+  {
+      border: 1px solid red;
+      color: red;
+      cursor: pointer;
+  }
+  .left-portion {
+    float: left;
+  }
+.big-image-1 img
+{
+    width: 100%;
+    float: left;
+}
+
+.page-3-4 {
+    display: inline-block;
+ 
+  
+   
+  }
+  .page-3-6
+  {
+    margin-top: -5px;
+  }
+  .page-3-5 {
+    display: inline-block;
+
+  }
+  .right-portion {
+    display: inline-block;
+  }
+  .page-3-2 img {
+    width: 388px;
+    height: 205px;
+  }
+  .images-page-3 {
+   
+  
+  
+    
+  }
+  .big-image-1 img:hover
+  {
+    opacity: 90%;
+    -webkit-filter: invert(40%) grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(400%) contrast(2);
+        filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(600%) contrast(0.8);
+  }
+  
+  
+  
+  
+/*   
+  .text-image-3-1 
+  {
+    position: absolute;
+    margin-top: -200px;
+    padding-left: 70px
+  }
+  .text-image-3-1 h2
+  {
+    font-size: 15px;
+    line-height: 19px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Raleway";
+  }
+  
+  .text-image-3-1 h3 
+  {
+    font-size: 13px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Source Sans Pro";
+  text-align: center;
+  }
+  .text-image-3-1 p
+  {
+    font-size: 13px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Source Sans Pro";
+  text-align: center;
+  }
+  .clip i::before
+  {
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+  }
+  .clip i
+  {
+    position: absolute;
+    margin-top: -180px;
+    padding-left: 550px;
+  }
+  .text-image-3-1 
+  {
+    opacity: 0;
+    
+  
+   
+    
+  } */
+  
+  /* .page-3-1:hover .text-image-3-1 
+  {
+    opacity: 90%;
+    
+  } */
+  
+.view-button
+{
+    margin-left: 550px;
+    padding-top: 64px;
+    padding-bottom: 120px;
+    
+}
+.view-button button
+{
+  width: 150px;
+  height: 45px;
+  font-family: "Raleway", sans-serif;
+  font-weight: bolder;
+  font-size: 13px;
+  color: red;
+  background-color: white;
+  border-radius: 5px;
+  
+}
+.view-all
+{
+    width: 82px;
+height: 11px;
+font-size: 15px;
+letter-spacing: 0px;
+line-height: 17px;
+color: #dc4236;
+font-weight: 700;
+font-family: "Raleway";
+}
+
+/* css of page-4 begains  */
+  
+  
+.contact-us-heading h3 {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 24.5px;
+    padding-top: 107px;
+    font: bold;
+  }
+  #contact-us-underline {
+    width: 130px;
+    border: 1px solid red;
+    align-items: center;
+  }
+  .contact-us-content {
+    text-align: center;
+    width: 980px;
+   font-size: 14px;
+    margin-top: -15px;
+    color: grey;
+    font-weight: 400;
+    align-items: center;
+    text-align: center;
+    padding-left: 100px;
+    padding-bottom: 60px;
+  }
+
+
+  .page-4-left-content
+  {
+      float: left;
+  }
+  .page-4-right-content
+  {
+      width: 570px;
+      margin-top: -30px;
+      display: inline-block;
+      padding-left: 40px;
+  }
+  .required-geading h3
+{
+    font-size: 25px;
+
+color: #000000;
+font-family: 'Bebas Neue', cursive;
+}
+.required-sub-heading
+{
+    font-size: 15px;
+    margin-left: 60px;
+
+
+color: #dc4236;
+font-weight: 700;
+font-family: "Open Sans";
+}
+
+.required-content p
+{
+    width: 579px;
+
+font-size: 15px;
+letter-spacing: 0px;
+line-height: 27px;
+color: #928c8b;
+font-weight: 700;
+font-family: "Open Sans";
+}
+.next-to p
+{
+    width: 579px;
+  
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 27px;
+    color: #333333;
+    font-weight: 700;
+    font-family: "Open Sans";
+}
+
+
+
+
+/* 444444444444444444444444444444444444444444444444 */
+
+
+.whole-lower-content
+{
+    display: inline-block;
+    width: 100%;
+}
+
+.how-to-reach {
+
+    margin-top: 22px;
+ float: left;
+ 
+ width: 575px;
+    /* padding-left: 20%; */
+  }
+  .how-to-reach-tittle {
+    width: 500px;
+  }
+  .how-to-reach-tittle h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 32px;
+    display: inline-block;
+  }
+  .email img {
+    float: left;
+    margin-right: 30px;
+  }
+  .phone {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .phone img {
+    float: left;
+    margin-right: 30px;
+  }
+  .localtion img {
+    float: left;
+  }
+  .location-img img {
+    float: left;
+    margin-right: 30px;
+  }
+  .text-location
+  {
+    font-size: 15px;
+line-height: 23px;
+color: #726a69;
+font-family: "Bebas";
+  }
+  .contact p {
+    margin: 0px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    color: gray;
+  }
+  .contact span,
+  a {
+    color: #DC4236;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Bebas Neue', cursive;
+  }
+  .social-media ul li {
+    display: inline;
+    cursor: pointer;
+  }
+  .social-media ul {
+    margin-right: 50px;
+    padding-left: 0px;
+  }
+  .social-media {
+    padding-top: 10px;
+  }
+  .social-media ul li:hover {
+    opacity: 0.4;
+  }
+  #fb{
+      color: white;
+      background-color:#1852a9;
+      width: 70px;
+      height: 64px;
+      padding-top: 10px;
+      display: inline-block;
+      text-align: center;
+  }
+  #twitter{
+      color: white;
+      background-color: #26D3F9;
+      width: 70px;
+      display: inline-block;
+      text-align: center;
+      height: 64px;
+      padding-top: 10px;
+  }
+  #pinterest{
+      color: white;
+      background-color: #FB4343;
+      width: 70px;
+      display: inline-block;
+      text-align: center;
+      height: 64px;
+      padding-top: 10px;
+  }
+  #google{
+      color: white;
+      background-color:#2c3e50 ;
+      width: 70px;
+      display: inline-block;
+      text-align: center;
+      height: 64px;
+      padding-top: 10px;
+  }
+  #vimeo{
+      color: white;
+      background-color: #33A9F0;
+      width: 70px;
+      display: inline-block;
+      text-align: center;
+      height: 64px;
+      padding-top: 10px;
+  }
+  #wifi{
+      color: white;
+      background-color: #FF8A00;
+      width: 70px;
+      display: inline-block;
+      text-align: center;
+      height: 64px;
+      padding-top: 10px;
+  }
+  #globle{
+      color: white;
+      background-color: #EB477C;
+      width: 70px;
+      display: inline-block;
+      text-align: center;
+      height: 64px;
+      padding-top: 10px;
+  }
+  .contactform-container {
+    margin-top: 20px;
+    padding-bottom: 90px;
+    width: 595px;
+    display: inline-block  ;
+    
+    
+  }
+  .contactform-container h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 32px;
+    display: inline-block;
+  }
+  #name,
+  #email {
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: 10px;
+    width: 570px;
+    border: white;
+    font-size: 20px;
+    font-family: "BenchNine", sans-serif;
+    box-shadow:  6px 6px 3px -2px #E4E4E4;
+  }
+  #message {
+    max-width: 577px;
+    min-width: 577px;
+    margin: 10px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 90px;
+    font-family: "BenchNine", sans-serif;
+    box-shadow:  6px 6px 3px -2px #E4E4E4;
+    border: white;
+  }
+  #submitbtn {
+    background-color: #DC4236;
+    color: white;
+    font-size: 22px;
+  
+    font-weight: bold;
+    width: 570px;
+    height: 65px;
+    letter-spacing: 3px;
+    font-family: 'Bebas Neue', cursive;
+    cursor: pointer;
+    transition: .5s;
+    border: transparent;
+  }
+  .input:focus{
+    outline: none;
+  }
+  #submitbtn i {
+    float: right;
+    margin-top: 5px;
+    padding-right: 16px;
+    text-align: center;
+  }
+  #submitbtn:hover {
+    background-color: #C2BFBF;
+    color: #DC4236;
+  }
+  .input-message
+  {
+      height: 25px;
+  }
+  .copyright
+  {
+    background-color: #efefef;
+  }
+  .copyright h3
+  {
+    font-size: 21px;
+    line-height: 40px;
+    color: #888180;
+    font-weight: 700;
+    font-family: 'BenchNine', sans-serif;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  @media (max-width: 1024px)
+  {
+    
+    
+    
+    
+    .leftLogo {
+  
+ 
+        background-color: grey;
+        float: left;
+        padding-left: 30px;
+        
+      
+      }
+      .leftLogo img
+       {
+    
+    width: 15%;
+    }
+    
+
+    .hero-logo img {
+      max-width: 100%;
+      min-width: 55%;
+      padding-top: 197px;
+      padding-bottom: 252px;
+      margin: 0 auto;
+      text-align: center!important;
+      padding-left: 0%;
+      margin-left: 115px;
+  }
+
+.topTitle p {
+  text-align: center;
+  font-weight: 100;
+  font-size: 12px;
+  padding-left: 100px;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(172, 164, 160);
+  letter-spacing: 0.05px;
+  width: 839px;
+
+}
+
+.navigationBlock button {
+  background-color: rgb(191, 183, 181);
+  border: 1px solid;
+  width: 141px;
+  height: 46px;
+  color: white;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  margin-top: 10px;
+}
+.hero-logo
+{
+  width: 1024px;
+}
+.navigationBlock i {
+  margin-top: -5px;
+  margin-left: 50px;
+  padding-left: 0px;
+  color: grey;
+}
+.rightNavigation ul {
+  margin-top: 0px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-bottom: 0px;
+  text-align: right;
+  padding-right: 40px;
+}
+.rightNavigation ul li {
+  display: inline;
+  letter-spacing: 0px;
+  padding-left: 5px;
+}
+.rightNavigation button
+{
+  opacity: 0;
+}
+.booksandcups {
+  float: left;
+  padding-left: 90px;
+  width: 40%;
+}
+.booksandcups img {
+  width: 100%;
+  padding-top: 80px;
+}
+.price-tag img {
+  padding-top: 171px;
+  margin-left: -85px;
+  width: 8%;
+}
+.page-2-content {
+  float: left;
+  width: 350px;
+  padding-left: 58px;
+}
+.page-2-content h3 {
+  font-size: 25px;
+  padding-top: 60px;
+  color: #211e1e;
+  font-weight: 700;
+  font-family: "Raleway";
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.quote img {
+  
+  width: 40%;
+  padding-left: 60px;
+  }
+  .relatedprojects h3 {
+    font-size: 15px;
+    display: inline-block;
+    padding-left: 60px;
+    color: #211e1e;
+    font-weight: 700;
+    font-family: "Raleway";
+}
+.relatedprojects img {
+  width: 40%;
+  padding-left: 65px;
+}
+.buttonsBelowrelatedprojects {
+  display: flex;
+  flex-direction: row;
+  margin-top: 25px;
+  float: left;
+  padding-left: 0px;
+  margin-left: 70px;
+  font-family: "Raleway", sans-serif;
+  padding-bottom: 100px;
+}
+
+/* css for page-3 */
+.heading-page-3 {
+  padding-top: 46px;
+  padding-left: 150px;
+  width: 720px;
+  text-align: center;
+  align-items: center;
+}
+
+.big-image-1 img {
+  width: 97%;
+  float: left;
+  margin-left: 72px;
+}
+.page3butons {
+  padding-left: 88px;
+  width: 860px;
+}
+.images-page-3
+{
+  padding-left: 20px;
+}
+.page-3-4 img
+{
+  margin-left: 70px;
+    margin-top: 20px;
+}
+.page-3-5 img
+{
+  margin-left: 45px;
+    margin-top: -205px;
+    position: absolute;
+}
+.page-3-2 img
+{
+  margin-left: 69px;
+    padding-top: 15px;
+}
+.page-3-3 img
+{
+  position: absolute;
+  margin-left: 508px;
+  margin-top: -208px;
+}
+.page-3-6 img
+{
+  margin-left: 292px;
+    padding-top: 15px; 
+}
+
+
+/* css for page-4 */
+.contact-us-content {
+  text-align: center;
+  width: 980px;
+  font-size: 14px;
+  margin-top: -15px;
+  color: grey;
+  font-weight: 400;
+  align-items: center;
+  text-align: center;
+  padding-left: 20px;
+  padding-bottom: 60px;
+}
+
+.page-4-image-1 {
+  padding-left: 230px;
+}
+.required-geading
+{
+  margin-left: 383px;
+}
+.page-4-right-content
+{
+  padding-top: 80px;
+  padding-left: 60px;
+
+}
+.required-sub-heading
+{
+  padding-top: 36px;
+}
+.required-content p {
+  width: 332px;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 27px;
+  color: #928c8b;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+.next-to {
+  width: 940px;
+}
+.next-to p {
+  width: 880px;
+  font-size: 15px;
+  letter-spacing: 0px;
+  line-height: 27px;
+  color: #333333;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+.buttons-page-4 {
+  position: absolute;
+  width: 557px;
+  margin-left: 350px;
+  margin-top: -290px;
+}
+
+/* css page-4 */
+/* .how-to-reach-tittle {
+  max-width: 900px;
+} */
+.how-to-reach h3
+{
+  padding-left: 410px;
+  width: 400px;
+}
+.how-to-reach-tittle p {
+  width: 420px;
+  text-align: center;
+  padding-left: 280px;
+  margin-top: -10px;
+}
+
+.contact
+{
+  padding-left: 145px;
+}
+.social-media
+{
+  padding-left: 0px;
+  width: 275px;
+  position: absolute;
+  margin-left: 434px;
+  margin-top: -212px;
+}
+#globle
+{
+  opacity: 0;
+}
+
+.contactform-container h3
+{
+  padding-left: 435px;
+}
+.contactform-container form
+{
+  padding-left: 220px;
+}
+
+
+
+
+
+
+
+/* this is closing bracket */
+}
+
+
+ @media(max-width: 812px)
+{
+  .hero-logo {
+    width: 811px;
+}
+  .hero-logo img {
+    max-width: 52%;
+    min-width: 50%;
+    padding-top: 197px;
+    padding-bottom: 252px;
+    margin: 0 auto;
+    text-align: center!important;
+    padding-left: 0%;
+    margin-left: 135px;
+}
+.leftLogo
+{
+  padding-top: 9px;
+}
+.topTitle p {
+  text-align: center;
+  font-weight: 100;
+  font-size: 12px;
+  padding-left: 45px;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(172, 164, 160);
+  letter-spacing: 0.05px;
+  width: 723px;
+}
+.middleNavigation
+{
+  padding-left: 60px;
+}
+.page-2-content {
+  float: right;
+  width: 350px;
+  padding-left: 30px;
+}
+.quote img {
+  width: 40%;
+  padding-left: 60px;
+  margin-top: -15px;
+}
+.buttonsBelowrelatedprojects {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  float: left;
+  padding-left: 0px;
+  margin-left: 70px;
+  font-family: "Raleway", sans-serif;
+  padding-bottom: 100px;
+}
+.heading-page-3 {
+  padding-top: 46px;
+  padding-left: 55px;
+  width: 720px;
+  text-align: center;
+  align-items: center;
+}
+
+.page3butons {
+  padding-left: 65px;
+  width: 696px;
+}
+.big-image-1 img {
+  width: 86%;
+  float: left;
+  margin-left: 49px;
+}
+.page-3-4 img {
+  margin-left: 48px;
+  margin-top: 20px;
+  width: 75%;
+}
+.page-3-5 img {
+  margin-left: -42px;
+  margin-top: -173px;
+  position: absolute;
+  width: 41%;
+}
+.page-3-2 img {
+  margin-left: 48px;
+  padding-top: 15px;
+  width: 55%;
+}
+.page-3-3 img {
+  position: absolute;
+  margin-left: 399px;
+  margin-top: -208px;
+  width: 41%;
+  height: 53%;
+}
+.page-3-6 img {
+  margin-left: 210px;
+  padding-top: 15px;
+}
+.view-button {
+  margin-left: 330px;
+  padding-top: 64px;
+  padding-bottom: 120px;
+}
+.contact-us-content {
+
+  width: 783px;
+  font-size: 14px;
+  margin-top: -15px;
+  color: grey;
+  font-weight: 400;
+  align-items: center;
+  text-align: center;
+  padding-left: 20px;
+  padding-bottom: 60px;
+}
+.page-4-image-1 {
+  padding-left: 135px;
+}
+.required-geading {
+  margin-left: 305px;
+}
+.required-sub-heading {
+  font-size: 15px;
+  margin-left: 3px;
+  color: #dc4236;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+.required-content p {
+  width: 320px;
+  text-align: justify;
+  font-size: 14px;
+  letter-spacing: 0px;
+  line-height: 28px;
+  color: #928c8b;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+.next-to p {
+  width: 394px;
+  font-size: 15px;
+  text-align: justify;
+  letter-spacing: 0px;
+  line-height: 27px;
+  color: #333333;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+.next-to
+{
+  width: 320px;
+}
+.buttons-page-4 {
+  position: absolute;
+  width: 264px;
+  margin-left: 460px;
+  margin-top: -391px;
+}
+.how-to-reach h3 {
+  padding-left: 353px;
+  width: 281px;
+}
+.how-to-reach-tittle p {
+  padding-bottom: 30px;
+  width: 420px;
+  text-align: center;
+  padding-left: 215px;
+  margin-top: -14px;
+}
+.contact {
+  padding-left: 110px;
+}
+.contactform-container h3 {
+  padding-left: 350px;
+}
+.contactform-container form {
+  padding-left: 130px;
+}
+
+}
+
+
+
+
+
+@media (max-width: 768px)
+{
+/* css of page-1 */
+.hero-logo img {
+  max-width: 53%;
+  min-width: 55%;
+  padding-top: 197px;
+  padding-bottom: 252px;
+  margin: 0 auto;
+  margin-left: 150px;
+}
+.hero-logo
+{
+
+  width: 768px;
+
+}
+.rightNavigation button
+{
+  opacity: 0;
+}
+/* css of page-2 */
+.topTitle p {
+  text-align: center;
+  font-weight: 100;
+  font-size: 12px;
+  padding-left: 60px;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(172, 164, 160);
+  letter-spacing: 0.05px;
+  width: 620px;
+}
+.middleNavigation
+{
+  padding-left: 40px;
+}
+.booksandcups {
+  float: left;
+  padding-left: 50px;
+  width: 40%;
+}
+
+
+
+/* css of page-3 */
+.heading-page-3 {
+  padding-top: 46px;
+  padding-left: 15px;
+  width: 720px;
+  text-align: center;
+  align-items: center;
+}
+.page3butons {
+  padding-left: 125px;
+  width: 480px;
+}
+
+.big-image-1 img {
+  width: 85%;
+  float: left;
+  margin-left: 41px;
+}
+.page-3-4 img {
+  margin-left: 40px;
+  margin-top: 15px;
+  width: 300px;
+}
+.page-3-5 img {
+  margin-left: 32px;
+  width: 300px;
+  margin-top: -155px;
+  position: absolute;
+
+}
+.page-3-2 img {
+  margin-left: 40px;
+  padding-top: 15px;
+  width: 300px;
+    height: 164px;
+}
+.page-3-3 img {
+  position: absolute;
+  width: 300px;
+  height: 165px;
+  margin-left: 377px;
+  margin-top: -168px;
+}
+
+
+.page-3-6 img {
+  margin-left: 175px;
+  padding-top: 15px;
+}
+.view-button {
+  margin-left: 290px;
+  padding-top: 64px;
+  padding-bottom: 120px;
+}
+
+/* css of page-4 */
+
+.page-4-right-content {
+  padding-top: 80px;
+  padding-left: 0;
+}
+.contact-us-content
+{
+  width: 720px;
+}
+.page-4-image-1 {
+  padding-left: 105px;
+}
+.contact {
+  padding-left: 65px;
+}
+
+.how-to-reach h3 {
+  padding-left: 310px;
+  width: 400px;
+  padding-top: 140px;
+  margin-bottom: 20px;
+}
+.how-to-reach-tittle p {
+  width: 420px;
+  text-align: center;
+  padding-left: 186px;
+  margin-top: auto;
+}
+.required-geading h3 {
+  font-size: 25px;
+  color: #000000;
+  font-family: 'Bebas Neue', cursive;
+  margin-left: -60px;
+}
+.required-content p {
+  width: 300px;
+  font-size: 15px;
+  letter-spacing: 0px;
+  margin-left: 59px;
+  line-height: 27px;
+  color: #928c8b;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+.next-to {
+  width: 720px;
+  margin-top: -164px;
+}
+.next-to p {
+  width: 326px;
+  margin-left: 380px;
+  font-size: 15px;
+  /* margin-left: 40px; */
+  letter-spacing: 0px;
+  line-height: 20px;
+  color: #333333;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+.buttons-page-4 {
+  position: absolute;
+  width: 557px;
+  margin-left: 100px;
+  margin-top: 0;
+}
+.social-media {
+  padding-left: 0px;
+  width: 275px;
+  position: absolute;
+  margin-left: 422px;
+  margin-top: -212px;
+}
+
+.contactform-container form {
+  padding-left: 100px;
+}
+.contactform-container h3
+{
+  padding-left: 331px;
+}
+#submitbtn {
+  background-color: #DC4236;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 15px;
+  width: 577px;
+  height: 65px;
+  letter-spacing: 3px;
+  font-family: 'Bebas Neue', cursive;
+  cursor: pointer;
+  transition: .5s;
+  border: transparent;
+}
+
+
+}
+
+
+/* media quarry for mobile phone */
+
+@media (max-width: 411px) and (min-width: 200px)
+{
+
+
+
+
+  /* CSS of page-1 begins here */
+
+
+.rightNavigation button
+{
+  opacity: 1;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content li {
+  color: black!important;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown:hover .dropbutton {
+  background-color: #3e8e41;
+}
+
+
+.rightNavigation ul {
+    margin-top: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 0px;
+    display: inherit;
+    text-align: right;
+    padding-right: 35px;
+}
+.hero-logo {
+  width: 320px;
+}
+.hero-logo img {
+  max-width: 80%;
+  min-width: 25%;
+  padding-top: 100px;
+  padding-bottom: 110px;
+  margin: 0 auto;
+  margin-left: 80px;
+}
+
+/* css of page-2 begains here */
+.topTitle p {
+  text-align: center;
+  font-weight: 100;
+  font-size: 9px;
+  padding-left: 50px;
+  width: 310px;
+  font-family: "Open Sans", sans-serif;
+  color: rgb(172, 164, 160);
+  letter-spacing: 0.05px;
+}
+.topTitle h2 {
+  padding-top: 100px;
+  text-align: center;
+  font-family: "BenchNine", sans-serif;
+  letter-spacing: normal;
+  text-align-last: center;
+  font-size: 15px;
+  /* text-decoration: underline red; */
+}
+#underline-our-services {
+width: 35px;
+align-items: center;
+margin-top: 02px;
+border: 1px solid red;
+}
+.hero-logo img {
+  max-width: 80%;
+  min-width: 25%;
+  padding-top: 100px;
+  padding-bottom: 110px;
+  margin: 0 auto;
+  margin-left: -195px;
+}
+.navigationBlock
+{
+  padding-left: 3px;
+  
+}
+.navigationBlock i {
+  margin-top: -5px;
+  margin-left: 25px;
+  padding-left: 0px;
+  color: grey;
+}
+.navigationBlock button {
+  background-color: rgb(191, 183, 181);
+  border: 1px solid;
+  width: 60px;
+  height: 29px;
+  color: white;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  font-size: 8px;
+  margin-top: 5px;
+}
+.middleNavigation {
+  padding-left: 45px;
+}
+.middleNavigation i
+{
+  font-size: 18px;
+}
+
+.written-content {
+  width: 121px;
+  padding-left: 10px;
+  margin-top: -30px;
+}
+.page-2-content h3 {
+  font-size: 13px;
+  padding-top: 60px;
+  padding-left: 4px;
+  color: #211e1e;
+  font-weight: 700;
+  font-family: "Raleway";
+  margin-top: 0px;
+  margin-bottom: -7px;
+}
+.page-2-content ul li {
+  font-size: 8px;
+  letter-spacing: 0px;
+  line-height: 10px;
+  color: #726a69;
+  font-weight: 400;
+  font-family: "Source Sans Pro";
+  list-style: none;
+}
+.page-2-content img 
+{
+  width: 4%;
+  margin-left: 4px;
+}
+.page-2-content {
+  float: left;
+  width: 150px;
+  padding-left: 0;
+}
+.page-2-content h4 {
+  font-size: 6px;
+  color: #726a69;
+  margin-top: 10px;
+  font-weight: 700;
+  font-family: "Source Sans Pro";
+  padding-left: 4px;
+}
+.booksandcups img {
+  width: 75%;
+  padding-top: 25px;
+  padding-left: 28px;
+}
+.booksandcups {
+  float: left;
+  padding-left: 0px;
+  width: 60%;
+  position: relative;
+}
+.relatedprojects {
+  padding-left: 103px;
+  margin-top: -15px;
+}
+
+.relatedprojects h3 {
+  font-size: 8px;
+  display: inline-block;
+  padding-left: 60px;
+  color: #211e1e;
+  font-weight: 700;
+  font-family: "Raleway";
+}
+.relatedprojects img {
+  width: 30%;
+  position: absolute;
+  margin-left: 90px;
+  margin-top: -125px;
+}
+
+
+.relatedprojects h3 {
+  font-size: 8px;
+  margin-top: -142px;
+  display: inline-block;
+  padding-left: 60px;
+  margin-left: 94px;
+  color: #211e1e;
+  font-weight: bolder;
+  position: absolute;
+  font-family: "Raleway";
+}
+.quote img {
+  width: 40%;
+  margin-left: 75px;
+  margin-top: 16px!important;
+}
+
+.price-tag img {
+  padding-top: 229px;
+  margin-left: -45px;
+  width: 8%;
+}
+.buttonsBelowrelatedprojects {
+  display: flex;
+  flex-direction: row;
+  margin-top: -75px;
+  float: left;
+  margin-left: 232px;
+  font-family: "Raleway", sans-serif;
+  padding-bottom: 100px;
+}
+.ordernow {
+  width: 50px;
+  height: 22px;
+  margin-left: 25px;
+  font-family: "Raleway", sans-serif;
+  font-weight: bolder;
+  font-size: 5px;
+  color: red;
+  background-color: white;
+  border-radius: 5px;
+}
+.contactus {
+  width: 50px;
+  height: 22px;
+  font-family: "Raleway", sans-serif;
+  font-weight: bolder;
+  font-size: 5px;
+  color: red;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+}
+
+
+
+/* css of page-3 begains */
+.heading-page-3
+{
+  width: 320px;
+    padding-left: 0px;
+}
+.heading-page-3 h3 {
+  font-size: 15px;
+  letter-spacing: 2px;
+  padding-left: 90px;
+  line-height: 10px;
+  color: #000000;
+  text-align: center;
+  font-weight: 700;
+  font-family: "Raleway";
+}
+.heading-page-3 p {
+  font-size: 8px;
+  letter-spacing: 0px;
+  line-height: 13px;
+  margin-left: 100px;
+  color: #928c8b;
+  font-weight: 400;
+  font-family: "Raleway";
+  text-align: center;
+}
+
+
+.page3butons {
+  font-family: source Sans;
+  align-items: center;
+  text-align: center;
+  padding-left: 65px;
+  width: 320px;
+  margin-top: 17px;
+  margin-right: -7px;
+  font-size: 0px;
+}
+.all {
+  width: 25px;
+  margin-left: -45px;
+  background-color: transparent;
+  height: 19px;
+  font-size: 6px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  color: rgb(155, 153, 153);
+  border: 1px solid;
+}
+.interactive {
+  width: 53px;
+  height: 19px;
+  font-size: 6px;
+  margin: 1px;
+  background-color: transparent;
+  color: rgb(155, 153, 153);
+  border: 1px solid;
+}
+.development {
+  width: 53px;
+  height: 19px;
+  margin: 0px;
+  font-size: 6px;
+  background-color: transparent;
+  color: rgb(155, 153, 153);
+  border: 1px solid;
+}
+
+
+.userintrface {
+    width: 66px;
+    height: 19px;
+    font-size: 6px;
+    background-color: transparent;
+    color: rgb(155, 153, 153);
+    border: 1px solid;
+    margin: 2px;
+}
+
+
+.printdesign {
+    width: 57px;
+    height: 19px;
+    font-size: 6px;
+    margin: 1px;
+    color: red;
+    background-color: transparent;
+    color: rgb(155, 153, 153);
+    border: 1px solid;
+}
+.webdesign {
+  width: 53px;
+  height: 19px;
+  font-size: 6px;
+  background-color: transparent;
+  color: rgb(155, 153, 153);
+  border: 1px solid;
+  margin: 1px;
+}
+
+
+
+.images-page-3 {
+  padding-left: 0px;
+}
+.big-image-1 img {
+  width: 34%;
+  float: left;
+  margin-left: 40px;
+  padding-top: 25px;
+}
+.page-3-4 img {
+  margin-left: 33px;
+  margin-top: 26px;
+  width: 123px;
+}
+.page-3-2 img {
+  margin-left: 40px;
+  padding-top: 15px;
+  width: 123px;
+  height: 64px;
+}
+
+.page-3-6 img {
+  margin-left: 213px;
+  width: 31%;
+  margin-top: -68px;
+}
+.page-3-2 img {
+  margin-left: 40px;
+  padding-top: 15px;
+  width: 140px;
+  height: 67px;
+}
+.page-3-5 img {
+  margin-left: -300px;
+  width: 140px;
+  margin-top: 104px;
+  position: absolute;
+}
+.page-3-3 img {
+  position: absolute;
+  width: 127px;
+  height: 9%;
+  margin-left: 214px;
+  margin-top: 35px;
+}
+.view-button {
+  margin-left: 309px;
+  padding-top: 75px;
+  padding-bottom: 120px;
+}
+
+.view-button button {
+  width: 131px;
+  height: 15px;
+  font-family: "Raleway", sans-serif;
+  font-weight: bolder;
+  font-size: 6px;
+  color: red;
+  margin-left: -274px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+/* css of page-4 begains from here */
+
+
+.whole-content-page-4
+{
+  padding-left: 25px;
+}
+.contact-us-heading h3 {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-size: 13.5px;
+  padding-top: 16px;
+  font: bold;
+}
+.contact-us-content p
+{
+  width: 320px;
+}
+.contact-us-content {
+  width: 320px;
+
+}
+.contact-us-content {
+  text-align: center;
+  width: 300px;
+  font-size: 9px;
+  margin-top: -3px;
+  color: grey;
+  font-weight: 400;
+  align-items: center;
+  text-align: center;
+  padding-left: 20px;
+  padding-bottom: 51px;
+}
+#contact-us-underline {
+  width: 40px;
+  border: 1px solid red;
+  align-items: center;
+}
+
+.page-4-image-1 {
+  width: 280px;
+  height: 190px;
+  margin-top: -35px;
+  margin-left: 40px;
+  padding-left: 0px;
+}
+.page-4-image-1 img
+{
+  width: 280px;
+    height: 190px;
+}
+.required-geading {
+  margin-left: 145px;
+  width: 140px;
+}
+
+.required-geading h3 {
+  font-size: 15px!important;
+  color: #000000;
+  width: 149px;
+ margin-left: -10px;
+  font-family: 'Bebas Neue', cursive;
+  
+}
+.page-4-right-content
+{
+  width: 300px;
+}
+.required-sub-heading {
+  padding-top: 0px;
+  font-size: 11px;
+  margin-left: 39px;
+}
+.required-content p {
+  width: 270px;
+  font-size: 9px;
+  letter-spacing: 0px;
+  margin-left: 38px;
+  line-height: 16px;
+  color: #928c8b;
+  text-align: justify;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+.next-to p {
+  width: 270px;
+  margin-left: 0;
+  font-size: 12px;
+  margin-left: 40px;
+  letter-spacing: 0px;
+  text-align: justify;
+  line-height: 18px;
+  color: #333333;
+  font-weight: 700;
+  font-family: "Open Sans";
+}
+.next-to {
+  width: 300px;
+  margin-top: 0;
+}
+.whole-lower-content
+{
+  padding-left: 20px;
+}
+.part-1-buttons-page-4
+{
+  width: 260px;
+}
+.part-2-buttons-page-4
+{
+  width: 260px;
+}
+.part-3-buttons-page-4
+{
+  width: 260px;
+}
+
+
+
+.part-1-buttons-page-4 img
+{
+width: 30%;
+}
+.part-2-buttons-page-4 img
+{
+width: 30%;
+}.part-3-buttons-page-4 img
+{
+width: 30%;
+}
+.buttons-page-4 {
+  position: absolute;
+  width: 230px;
+  margin-left: 60px;
+  margin-top: 20px;
+}
+.how-to-reach
+{
+  width: 290px;
+}
+.how-to-reach-tittle {
+  margin-left: 0px;
+  width: 100px;
+}
+.how-to-reach h3 {
+  
+    padding-left: 150px;
+    width: 400px;
+    padding-top: 140px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    width: 77px;
+}
+ 
+
+.how-to-reach-tittle p {
+  width: 300px;
+  text-align: center;
+  margin-left: 33px;
+  padding-left: 0;
+  font-size: 12px;
+  margin-top: auto;
+}
+.social-media {
+  padding-left: 0px;
+  width: 50px;
+  position: absolute;
+  margin-left: -20px;
+  margin-top: 15px;
+}
+.social-media ul 
+{
+  width: 285px;
+}
+/* .fa-facebook
+{
+  font-size: 15px;
+} */
+#fb {
+  color: white;
+  background-color: #1852a9;
+  width: 40px;
+  height: 33px;
+  padding-top: 0px;
+  display: inline-block;
+  text-align: center;
+}
+#twitter {
+  color: white;
+  background-color: #26D3F9;
+  width: 45px;
+  display: inline-block;
+  text-align: center;
+  height: 33px;
+  padding-top: 0px;
+}
+
+#pinterest {
+    color: white;
+    background-color: #FB4343;
+    width: 45px;
+    display: inline-block;
+    text-align: center;
+    height: 33px;
+    padding-top: 0px;
+}
+
+
+#google {
+    color: white;
+    background-color: #2c3e50;
+    width: 45px;
+    display: inline-block;
+    text-align: center;
+    height: 33px;
+    padding-top: 0px;
+}
+
+
+#vimeo {
+    color: white;
+    background-color: #33A9F0;
+    width: 45px;
+    display: inline-block;
+    text-align: center;
+    height: 33px;
+    padding-top: 0px;
+}
+#wifi {
+  color: white;
+  background-color: #FF8A00;
+  width: 45px;
+  display: inline-block;
+  text-align: center;
+  height: 33px;
+  padding-top: 0px;
+  
+}
+.fa-facebook:before {
+  content: "\f09a";
+  font-size: 18px;
+}
+.fa-twitter:before {
+  content: "\f099";
+  font-size: 18px;
+}
+
+.fa-pinterest-p:before {
+  content: "\f231";
+  font-size: 18px;
+}
+.fa-google-plus-square:before {
+  content: "\f0d4";
+  font-size: 18px;
+}
+.fa-vimeo:before {
+  content: "\f27d";
+  font-size: 18px;
+}
+
+.fa-wifi:before {
+  content: "\f1eb";
+  font-size: 18px;
+}
+
+
+
+
+
+.contact
+{
+  width: 290px;
+}
+.contactform-container form {
+  padding-left: 40px;
+}
+
+
+.email
+{
+  width: 200px;
+}
+.email-img img
+{
+  width: 35px;
+  margin-right: 15px;
+}
+.phone-img img
+{
+  width: 35px;
+  margin-right: 15px;
+}
+.location-img img 
+{
+  width: 35px;
+  margin-right: 15px;
+}
+.txt-email
+{
+  width: 200px;
+}
+.contact p {
+  margin: 0px;
+  font-weight: bold;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 16px;
+  color: gray;
+}
+.contact span, a {
+  color: #DC4236;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.contactform-container h3 {
+    padding-left: 150px;
+    padding-top: 90px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 15px;
+    display: inline-block;
+}
+
+#name, #email {
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  margin: 10px;
+  width: 270px;
+  border: white;
+  font-size: 15px;
+  font-family: "BenchNine", sans-serif;
+  box-shadow: 6px 6px 3px -2px #e4e4e4;
+}
+#message {
+  max-width: 284px;
+  min-width: 283px;
+  margin: 10px;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 80px;
+  font-family: "BenchNine", sans-serif;
+  box-shadow: 6px 6px 3px -2px #e4e4e4;
+  border: white;
+}
+
+#submitbtn i {
+  float: right;
+  margin-top: 1px;
+  padding-right: 10px;
+  text-align: center;
+}
+.contactform-container
+{
+  width: 300px;
+}
+.contactform-container form
+{
+  width: 305px;
+}
+
+#submitbtn {
+  background-color: #DC4236;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 15px;
+  width: 280px;
+  height: 45px;
+  letter-spacing: 3px;
+  font-family: 'Bebas Neue', cursive;
+  cursor: pointer;
+  transition: .5s;
+  border: transparent;
+}
+
+
+
+
+
+
+
+}
